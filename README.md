@@ -85,7 +85,7 @@ The final output is a `tsv` file containing:
 ## Citation
 If you use this pipeline please cite:
 
-- Cavanaugh K, Schröder O, Schneider J, Schell T, Bonada N, Seifert L, Pauls SU (submitted) Europe-wide population genetic structure of the montane net-winged midge _Liponeura cinerascens cinerascens_ LOEW 1844 (Diptera: Blephariceridae)
+- Schröder O, Cavanaugh KK, Schneider JV, Schell T, Bonada N, Seifert L, Pauls SU (2021). Genetic data support local persistence in multiple glacial refugia in the montane net‐winged midge Liponeura cinerascens cinerascens (diptera, blephariceridae). Freshwater Biology. <https://doi.org/10.1111/fwb.13682>
 
 Additional to the dependencies:
 
